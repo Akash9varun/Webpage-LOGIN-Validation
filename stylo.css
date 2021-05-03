@@ -20,7 +20,7 @@ body{
     text-transform: uppercase;
     font-weight: 700;
 }
-.box input[type="text"], .box input[type="password"]
+.box input[type="text"], .box input[type="text"]
 {
     border: 0;
     background: none;
